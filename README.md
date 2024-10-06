@@ -46,7 +46,7 @@ I am an enthusiastic and curious Data Analyst with a strong technical foundation
 - **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
 - **Udemy:** Datbricks, Python
 
-### Future Impact Vision
+### Future Impact Vision 💡 
 - With solid expertise in Python, SQL, Power BI, and Tableau, I thrive in data manipulation, model optimisation, and delivering impactful data visualisations.
 - I am passionate about harnessing my skills to create innovative, data-driven solutions that drive meaningful advancements in the industry.
 
