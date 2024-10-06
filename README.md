@@ -17,7 +17,7 @@ I am an enthusiastic and curious Data Analyst with a strong technical foundation
 
 
 ### Professional Highlights 🌟
-- **Intern** - Remote (2024 - Present)
+- **Workshop** - Remote (2024 - Present)
 - **Analyst** - India (2020 - 2022)
 - **Trainee** - India (2019 - 2020)
 
