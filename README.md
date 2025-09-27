@@ -2,7 +2,7 @@
 
 ## 🚀 Data Analyst focusing on Data Science and Machine Learning  eager to apply these skills across various industries to drive innovation and impact.
 
-📍 **UK**  
+📍 **India**  
 📧 **Email:** [basaksayan7@gmail.com](mailto:basaksayan7@gmail.com)  
 🔗 **LinkedIn:** [basaksayan](https://www.linkedin.com/in/basaksayan)  
 👨‍💻 **GitHub:** [sayanbasak7](https://github.com/sayanbasak7)
